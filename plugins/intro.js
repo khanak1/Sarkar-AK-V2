@@ -50,22 +50,22 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/wasixd/WASI-MD' // Source URL
-const number = '923135673658'
-var name = ' 𝕎𝔸𝕊𝕀 𝕋𝔼ℂℍ'
+var surl = 'https://github.com/Afzaal-786' // Source URL
+const number = '923556159234'
+var name = ' Afzaal Khan'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/2c30fa9e6f61ef8ba03a2.jpg'
+var image = 'https://github.com/khanak1/Alexa/blob/main/20240928_154259.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 𝐖𝐀𝐒𝐈 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
-│ Name      : 𝐖𝐀𝐒𝐈 
-│ Place       : 𝐈𝐒𝐋𝐀𝐌𝐀𝐁𝐀𝐃, 𝐏𝐀𝐊𝐈𝐒𝐓𝐀𝐍
-│ Gender    :  𝐌𝐀𝐋𝐄
+│       「 𝐈𝐍𝐓𝐑𝐎 」
+│ Name      : AFZAAL KHAN 
+│ Place       : SHARDA, KASHMIR
+│ Gender    :  MALE
 │ Age          : 20
-│ education : 𝐁𝐒 𝐒𝐄 
-│ good vibes : 𝐒𝐓𝐀𝐘 𝐂𝐋𝐀𝐌
-│ Phone     : wa.me/923135673658
-│ Youtube   : youtube.com/@wasitech1
-│ GitHub    : https://github.com/Itxxwasi 
+│ education : BA 😞 
+│ good vibes : STAY CALM
+│ Phone     : wa.me/923556159234
+│ Facebook  : https://facebook.com/afzaalkhan.k
+│ GitHub    : https://github.com/Afzaal-786 
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
@@ -76,7 +76,7 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
  //---------------------------------------------------------------------------
  smd({
              pattern: "intro",
-             alias: ["wasi","waso"],
+             alias: ["Sarkar-Ak","Khan"],
              desc: "Show intro of user",
              category: "fun",
              filename: __filename,
